@@ -1,6 +1,5 @@
 {
   "name": "flarone/tcpdi",
-  "version": "1.0.0",
   "homepage": "https://github.com/flarone/tcpdi",
   "description": "PDF importer for TCPDF based on FPDI (supports optimized PDF 1.5+)",
   "type": "library",
