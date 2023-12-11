@@ -8,11 +8,11 @@ Perfect for PDF Merge, Combine or Layer Overlapping
 
 Clone this git & copy it directory contains [TCPDF](https://github.com/tecnickcom/tcpdf)
 ```sh
-git clone https://github.com/lthh89vt/tcpdi
+git clone https://github.com/flarone/tcpdi
 ```
 Via Composer
 ```sh
-composer require lthh89vt/tcpdi
+composer require flarone/tcpdi
 ```
 
 ### Usage

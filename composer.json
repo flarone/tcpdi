@@ -1,16 +1,16 @@
 {
-  "name": "lthh89vt/tcpdi",
+  "name": "flarone/tcpdi",
   "version": "1.0.0",
-  "homepage": "https://github.com/lthh89vt/tcpdi",
+  "homepage": "https://github.com/flarone/tcpdi",
   "description": "PDF importer for TCPDF based on FPDI (supports optimized PDF 1.5+)",
   "type": "library",
   "keywords": ["pdf", "fpdi", "tcpdf", "tcpdi"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Duy Nguyen",
-      "email": "lthh89vt@gmail.com",
-      "homepage": "https://github.com/lthh89vt"
+      "name": "Flarone",
+      "email": "info@flarone.com",
+      "homepage": "https://flarone.com"
     }
   ],
   "autoload": {
